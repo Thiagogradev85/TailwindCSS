@@ -1,0 +1,25 @@
+{
+  "name": "tailwindcss",
+  "version": "1.0.0",
+  "description": "Projeto baseado no curso da Udemy em Tailwind CSS link: https://www.udemy.com/course/tailwind-css-do-basico-ao-avancado-com-projetos/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiagogradev85/TailwindCSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thiagogradev85/TailwindCSS/issues"
+  },
+  "homepage": "https://github.com/Thiagogradev85/TailwindCSS#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
+  }
+}
